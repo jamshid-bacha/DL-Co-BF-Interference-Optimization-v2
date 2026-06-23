@@ -98,53 +98,11 @@ Nulling, also known as null-steering, is a technique used to intentionally creat
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/a873817d-a930-45d0-afcf-87b40f757ca1" alt="4_Antennass_2_Beam_Angles_2_Null_Angles" style="width: 650px; height: 350px"/>
+      <img src="https://github.com/user-attachments/assets/273a598a-b8bc-4058-bdf9-68caaed6d478" alt="4_Antennass_2_Beam_Angles_2_Null_Angles" style="width: 650px; height: 350px"/>
     </td>
   </tr>
 </table>
 
-
-
-### 6 Antennas, 7 Base Stations, 1 Station per BS
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/3c0447ab-8a6f-4512-bf06-c5a03758726b" alt="6_Antennass_2_Beam_Angles_2_Null_Angles" style="width: 650px; height: 350px"/>
-    </td>
-  </tr>
-</table>
-
-
-### 10 Antennas, 7 Base Stations, 15 Stations per BS
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/41cdf78e-d1c2-420d-aec3-9de65cca9fde" alt="10_Antennass_2_Beam_Angles_2_Null_Angles" style="width: 650px; height: 350px"/>
-    </td>
-  </tr>
-</table>
-
-
-### Random Nulling vs. Optimum Nulling
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/6138d685-9e71-41fd-8cf8-d1ca2f552388" alt="BS7_Ant_4_6_10_STA6" style="width: 650px; height: 350px"/>
-    </td>
-  </tr>
-</table>
-
-
-
-
-### Overall Comparison
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/159ad00c-86d3-41ee-aa45-918f8bc1fb44" alt="BS7_Ant_4_6_10_STA6" style="width: 650px; height: 350px"/>
-    </td>
-  </tr>
-</table>
 
 ## 📄 Citation
 If you use this repository in your research, please cite our paper:
