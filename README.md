@@ -88,20 +88,9 @@ Nulling, also known as null-steering, is a technique used to intentionally creat
 
 
 # DDPG vs Oracle Rewards
-<img width="1108" alt="Archticture_Diagram_v3" src="https://github.com/user-attachments/assets/e8ce2ad1-4d53-46f5-83f9-d68d650a7f51" style="width: 800px;">
+<img width="1108" alt="Archticture_Diagram_v3" src="https://github.com/user-attachments/assets/273a598a-b8bc-4058-bdf9-68caaed6d478" style="width: 800px;">
 
 
-
-
-# Rewards based on Data Rate
-### 4 Antennas, 7 Base Stations, 1 Station per BS
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/273a598a-b8bc-4058-bdf9-68caaed6d478" alt="4_Antennass_2_Beam_Angles_2_Null_Angles" style="width: 650px; height: 350px"/>
-    </td>
-  </tr>
-</table>
 
 
 ## 📄 Citation
